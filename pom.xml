@@ -50,7 +50,7 @@
 			</plugin>
 
 		</plugins>
-		<finalName>springboot-github-new</finalName>
+		<finalName>github-actions-demo</finalName>
 	</build>
 
 </project>
